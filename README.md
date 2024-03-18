@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekakoshi&layout=compact&show_icons=true&theme=compact" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nekakoshi&theme=compact&show_icons=ture" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nekakoshi&theme=compact&column=8
+)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
